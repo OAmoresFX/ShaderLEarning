@@ -494,6 +494,7 @@
     <Compile Include="Assets\AmplifyShaderEditor\Plugins\Editor\Wires\WireBezierReference.cs" />
     <Compile Include="Assets\AmplifyShaderEditor\Plugins\Editor\Wires\WirePort.cs" />
     <Compile Include="Assets\AmplifyShaderEditor\Plugins\Editor\Wires\WireReference.cs" />
+    <Compile Include="Assets\Editor\MyToggleDrawer.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Attributes\PostProcessingModelEditorAttribute.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Models\AmbientOcclusionModelEditor.cs" />
     <Compile Include="Assets\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />
@@ -789,6 +790,13 @@
     <None Include="Assets\Shaders\09_AlphaBlended.shader" />
     <None Include="Assets\Shaders\10_Additive.shader" />
     <None Include="Assets\Shaders\11_FXCustomBlend.shader" />
+    <None Include="Assets\Shaders\12_FXRChannelClip.shader" />
+    <None Include="Assets\Shaders\13_UnlitShaderInflate.shader" />
+    <None Include="Assets\Shaders\14_FXHologramGlitch.shader" />
+    <None Include="Assets\Shaders\15_FXAnimatedUVs.shader" />
+    <None Include="Assets\Shaders\16_FXSpritesheetX.shader" />
+    <None Include="Assets\Shaders\17_FXSpritesheet.shader" />
+    <None Include="Assets\Shaders\18_FXSprite&amp;UVAnimation.shader" />
     <None Include="Assets\Shaders\CustomExplosion.shader" />
     <None Include="Assets\Shaders\VertexShaderTemplate.shader" />
     <None Include="Assets\True Explosions\System\Shaders\SphereVolumetricExplosion.shader" />

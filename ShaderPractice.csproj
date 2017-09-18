@@ -139,6 +139,7 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\Scripts\HologramGlitcher.cs" />
     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\ExploderComponent.cs" />
     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\LightComponent.cs" />
     <Compile Include="Assets\True Explosions\System\Scripts\effects\exploderComponents\ParticleComponent.cs" />
@@ -410,6 +411,13 @@
     <None Include="Assets\Shaders\09_AlphaBlended.shader" />
     <None Include="Assets\Shaders\10_Additive.shader" />
     <None Include="Assets\Shaders\11_FXCustomBlend.shader" />
+    <None Include="Assets\Shaders\12_FXRChannelClip.shader" />
+    <None Include="Assets\Shaders\13_UnlitShaderInflate.shader" />
+    <None Include="Assets\Shaders\14_FXHologramGlitch.shader" />
+    <None Include="Assets\Shaders\15_FXAnimatedUVs.shader" />
+    <None Include="Assets\Shaders\16_FXSpritesheetX.shader" />
+    <None Include="Assets\Shaders\17_FXSpritesheet.shader" />
+    <None Include="Assets\Shaders\18_FXSprite&amp;UVAnimation.shader" />
     <None Include="Assets\Shaders\CustomExplosion.shader" />
     <None Include="Assets\Shaders\VertexShaderTemplate.shader" />
     <None Include="Assets\True Explosions\System\Shaders\SphereVolumetricExplosion.shader" />
